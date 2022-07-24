@@ -54,5 +54,5 @@ Check Siraj's ["How to Deploy a Keras Model to Production"](https://youtu.be/f6B
 
 [How to deploy a Flask App to Heroku](https://progblog.io/How-to-deploy-a-Flask-App-to-Heroku/).
 
-"# deep-learning-malaria-detection" 
-"# malaria-detection-web-app" 
+"# deep-learning-brain-tumour-detection" 
+"# brain-tumour-detection-web-app" 
